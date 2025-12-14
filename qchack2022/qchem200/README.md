@@ -9,4 +9,5 @@ Similarly, if both the gate letters were the same, either of them were saved int
 
   In this way, the process would be repeated until the words were reduced to the minimum number possible, giving the most optimized set of words. After this, the compression ratio was calculated, and the final set of words was returned.
 Thats ✨all✨ idk what else to put here :P
+
 k byeee :D
